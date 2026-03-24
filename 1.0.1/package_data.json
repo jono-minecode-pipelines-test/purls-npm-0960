@@ -1,0 +1,52 @@
+{
+    "name": "007-student-management-system",
+    "version": "1.0.1",
+    "description": "This is a Cli Based student management system",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "007-student-management-system": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Ayesha Mughal"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.12.7"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.19"
+    },
+    "_id": "007-student-management-system@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.8.1",
+    "dist": {
+        "integrity": "sha512-0Nqi375XuKr7dzimCRjEZ427MhmBpomSPu2N372F5Vhm0jA5yO/jCQ57SHUrP+A7f7lHj7YyyNJIp7fhnvUXXA==",
+        "shasum": "49371dd90f7a9cb1a0cb6d823ca3b7527a78478d",
+        "tarball": "https://registry.npmjs.org/007-student-management-system/-/007-student-management-system-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 28955,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEN/4+lDm0tfFyAJIBpF4/0sMpgw0FOLKKhED/KSRplsAiEA62WhRmpk8MxEMHpzzB0zMK0ts87qoPYtNWDlQBIWg3s="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ayeshamughal007",
+        "email": "ayeshamughal2162009@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/007-student-management-system_1.0.1_1719485722893_0.3078863519687396"
+    },
+    "_hasShrinkwrap": false
+}

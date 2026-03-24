@@ -1,0 +1,68 @@
+{
+    "name": "00.demo",
+    "version": "1.0.0",
+    "description": "Tiny NodeJS Static Web server",
+    "main": "./src/index.js",
+    "bin": {
+        "anydoor": "bin/anydoor"
+    },
+    "scripts": {
+        "mocha": "mocha",
+        "cover": "istanbul cover _mocha test/mocha.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/chai": "^4.1.4",
+        "@types/jquery": "^3.3.5",
+        "@types/node": "^10.5.5",
+        "babel-eslint": "^8.2.6",
+        "chai": "^4.1.2",
+        "eslint": "^5.2.0",
+        "eslint-loader": "^2.1.0",
+        "eslint-plugin-html": "^4.0.5",
+        "istanbul": "^0.4.5",
+        "jquery": "^3.3.1",
+        "mocha": "^5.2.0"
+    },
+    "dependencies": {
+        "chalk": "^2.1.0",
+        "handlebars": "^4.0.10",
+        "yargs": "^12.0.1"
+    },
+    "_id": "00.demo@1.0.0",
+    "_npmVersion": "6.2.0",
+    "_nodeVersion": "8.11.1",
+    "_npmUser": {
+        "name": "wanqing3",
+        "email": "1028431602@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-Ke0g9sYsxrP9K9BUXuLP8AvLnixBBtnxxOVLYe5PKBthN332lRRV9lASjawPUokDmchLlwtMKmXDzYbg1rxrnA==",
+        "shasum": "b2788c6964863010fe783f5cd05aba7459e6643a",
+        "tarball": "https://registry.npmjs.org/00.demo/-/00.demo-1.0.0.tgz",
+        "fileCount": 14,
+        "unpackedSize": 9942,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbbkbCCRA9TVsSAnZWagAAW9oP/3CcgZeY0GI5224BC1Ez\nhSlEUQlgubCryBRw/ZNBZbBw+X81XPCcVI57P3gcJEhlW/7JZQzKxShCb3gf\n9SSpU2R6nJkZEl6JXsLBP40M01EeFz5mmt1UNsj/kMm2zHTVX1mvbwrZ7JPD\nviUG1KpNUSizEscgFdULDMtTy/rffjcO7xp8uKfwgCNT6KsufFoUMygo9l31\nn+kypug391SJZgjmFBqORaK9xM2kg0j6o+1pCCyCG/Tp9+NELAEtafcDncGf\n4cCPf+UqxuRMYgWaSTRPCP6OUFtM0Q07WgPLyrumy5dRC6Hcf3OREHy7gJCO\n50DYecWNM8DwhrpQfKrwzCPYZqi1V0Vp8eX4be+neoKwMHuUHDhevHy6a1sH\nOcJoR5X43bYruOYvE4uPrsaVP2yHBYG8eZeLGBykshQluGD0/VDh4jgCE9rr\nOwI4Zi3tUJiO06g82WaC5dfMWUzHosZAweDr7HpqL+s6jWAOFboJ7wXlA8EZ\nEz8ycymMZVuS9uL0hzOpnjPlYo+j56Auwtk7eGYg8x72yKih0ho5v/mOXcof\nc3x7l111gAG2VoONALIAf23lAwOxYXuPPUXmPRrfr6f9zrFGZrjKfBlsan/F\nZMfnk0GeiF2vwhNObQY/DF45t+GpnAajcxRPqXRf2eV7jF36bjKV61/wOgir\nS73A\r\n=khm/\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFEsSMR3avXYO+G3dgk+LE/xzWSHaLKkEqdi3r3m1KuSAiEAkl+0EGjEbIEzmcjei7w6mZ5A7uEe0y8ElP4vA7Ithlk="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "wanqing3",
+            "email": "1028431602@qq.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/00.demo_1.0.0_1533953729435_0.7444299847080198"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "just"
+}
