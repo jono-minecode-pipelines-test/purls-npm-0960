@@ -1,0 +1,51 @@
+{
+    "name": "-gexpress",
+    "version": "1.0.1",
+    "description": "@satoki00",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com",
+        "url": "https://github.com/satoki"
+    },
+    "license": "ISC",
+    "_id": "-gexpress@1.0.1",
+    "_nodeVersion": "21.1.0",
+    "_npmVersion": "10.2.0",
+    "dist": {
+        "integrity": "sha512-VHTW2mkP5EqJGIdbyMc+/jib0EVGzR7ZxYj+IB//HE1+DN8m84hGa3y0Rjxxow67ABKHrYeUT8p3PAVud7zu6g==",
+        "shasum": "f268f8debdeba655e44380fadd5e78644aef4262",
+        "tarball": "https://registry.npmjs.org/-gexpress/-/-gexpress-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 680,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHrD0XLOzCAajF+UxkHU3MT3ouyzJLHBx3c373JPSlpSAiEA0US6GOKhMltPjo18sjBqBK50yzlAEBbDorwZbQkFnr8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-gexpress_1.0.1_1721378225530_0.6100850624029148"
+    },
+    "_hasShrinkwrap": false
+}

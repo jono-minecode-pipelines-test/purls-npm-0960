@@ -1,0 +1,49 @@
+{
+    "name": "-assignment-q45",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-assignment-q45": "allTask.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.12.7"
+    },
+    "_id": "-assignment-q45@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-FA1ujrnkndKhwaQaGBL5Bg6dAdRrWTlREQYKCEY5V8cLQAXpBevGoSDOE81yoawUbp9yFmclBvO6Sv4WYKi7JA==",
+        "shasum": "1dee65764a1ab82ac8ef3666387b50a4bc0f231a",
+        "tarball": "https://registry.npmjs.org/-assignment-q45/-/-assignment-q45-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 48624,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBSpP7KaSDctcU4YC1/EIZNZqvzEzWwI924TT9tdvYrhAiAwhJylkt8REm2aduFh1FavBxBFRrxANId5nQHq9zba7g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "khokhar.bachal",
+        "email": "bachal.khokhar@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "khokhar.bachal",
+            "email": "bachal.khokhar@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-assignment-q45_1.0.0_1713035358864_0.5867798606120944"
+    },
+    "_hasShrinkwrap": false
+}
